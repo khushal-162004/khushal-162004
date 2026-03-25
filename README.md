@@ -148,11 +148,9 @@ Serverless backend for crime intelligence management system
 
 ---
 
-## 🌟 **Currently Learning**
+## ⭐ **Currently Learning**
 
-<div align="center">
-
-<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto;">
   <defs>
     <style>
       @keyframes float {
@@ -165,28 +163,30 @@ Serverless backend for crime intelligence management system
     </style>
   </defs>
   
+  <!-- GenAI -->
   <g class="floating" style="animation-delay: 0s">
-    <rect x="10" y="10" width="70" height="60" rx="8" fill="#00D4FF" opacity="0.8"/>
-    <text x="45" y="45" text-anchor="middle" fill="white" font-weight="bold" font-size="14">GenAI</text>
+    <rect x="10" y="20" width="80" height="60" rx="8" fill="#00D4FF" opacity="0.9"/>
+    <text x="50" y="55" text-anchor="middle" fill="white" font-weight="bold" font-size="16">GenAI</text>
   </g>
   
+  <!-- MLOps -->
   <g class="floating" style="animation-delay: 0.3s">
-    <rect x="100" y="10" width="70" height="60" rx="8" fill="#FF6B6B" opacity="0.8"/>
-    <text x="135" y="45" text-anchor="middle" fill="white" font-weight="bold" font-size="14">MLOps</text>
+    <rect x="105" y="20" width="80" height="60" rx="8" fill="#FF6B6B" opacity="0.9"/>
+    <text x="145" y="55" text-anchor="middle" fill="white" font-weight="bold" font-size="14">MLOps</text>
   </g>
   
+  <!-- Kubernetes -->
   <g class="floating" style="animation-delay: 0.6s">
-    <rect x="190" y="10" width="70" height="60" rx="8" fill="#00FF41" opacity="0.8"/>
-    <text x="225" y="35" text-anchor="middle" fill="white" font-weight="bold" font-size="12">Kubernetes</text>
+    <rect x="200" y="20" width="80" height="60" rx="8" fill="#00FF41" opacity="0.9"/>
+    <text x="240" y="48" text-anchor="middle" fill="white" font-weight="bold" font-size="12">Kubernetes</text>
   </g>
   
+  <!-- LLMs -->
   <g class="floating" style="animation-delay: 0.9s">
-    <rect x="280" y="10" width="70" height="60" rx="8" fill="#FFD700" opacity="0.8"/>
-    <text x="315" y="45" text-anchor="middle" fill="white" font-weight="bold" font-size="14">LLMs</text>
+    <rect x="295" y="20" width="80" height="60" rx="8" fill="#FFD700" opacity="0.9"/>
+    <text x="335" y="55" text-anchor="middle" fill="white" font-weight="bold" font-size="16">LLMs</text>
   </g>
 </svg>
-
-</div>
 
 ---
 
@@ -214,7 +214,7 @@ Serverless backend for crime intelligence management system
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushal-162004)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushal-162004)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushal@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khushal162004)
 
 </div>
